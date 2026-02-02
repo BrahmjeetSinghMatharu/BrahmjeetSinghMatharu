@@ -24,7 +24,6 @@ class BrahmjeetSingh:
         self.education = {
             "institute": "Thapar Institute of Engineering & Technology",
             "degree": "B.E. in Computer Science & Engineering",
-            "cgpa": "9.13/10.0",
             "year": "2023-Present"
         }
         self.location = "Punjab, India"
@@ -219,7 +218,6 @@ I'm always excited to collaborate on:
 ## 💡 Fun Facts
 
 - 🏊‍♂️ I'm a **National Level Swimmer** - balancing code and chlorine!
-- 🎯 Maintaining a **9.13 CGPA** while pursuing my passion for AI/ML
 - 🌟 Training & Placement Representative for CSE Department
 - 🧠 Love solving complex algorithmic problems
 - 🚀 Always exploring new technologies and frameworks
